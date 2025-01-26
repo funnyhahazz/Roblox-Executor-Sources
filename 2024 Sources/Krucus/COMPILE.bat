@@ -1,0 +1,2 @@
+py compiler.py
+pause
